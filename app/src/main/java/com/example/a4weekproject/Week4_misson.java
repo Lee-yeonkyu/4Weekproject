@@ -15,7 +15,7 @@ public class Week4_misson extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_week4_misson);
-        setTitle("changeImg");
+        setTitle("change Img");
 
         img1 = (ImageView) findViewById(R.id.Imgwinter);
         img2 = (ImageView) findViewById(R.id.Imgwinter2);
