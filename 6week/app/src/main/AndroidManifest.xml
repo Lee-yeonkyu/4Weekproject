@@ -52,7 +52,7 @@ package="com.example.a6week">
         android:name=".mission8Custom"
         android:exported="false" />
     <activity
-        android:name=".mission7"
+        android:name=".project7_3"
         android:exported="false" />
     <activity
         android:name=".mission7_2"
@@ -76,7 +76,7 @@ package="com.example.a6week">
         android:name=".project6_1"
         android:exported="false" />
     <activity
-        android:name=".project7_3"
+        android:name=".mission7"
         android:exported="true"
         android:theme="@style/AppTheme.NoActionBar">
         <intent-filter>
